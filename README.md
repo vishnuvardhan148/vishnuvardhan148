@@ -1,4 +1,4 @@
-# 👋Hi, I’m Praneeth!
+# 👋Hi, I’m Vishnu!
 
 Hi, I'm Vishnu Vardhan Gurram, a Cloud Engineer with a strong problem-solving mindset and a passion for automating cloud infrastructure. and I'm passionate about transforming ideas into scalable solutions.
 
